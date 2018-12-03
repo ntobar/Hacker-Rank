@@ -44,7 +44,7 @@ public class TimeConversion {
 
 
 
-    
+
     if(s.substring(8,10).equals("AM") && ((hours < 10) || (hours == 12))) {
 
       result = "0" + newHours + s.substring(2,8);
