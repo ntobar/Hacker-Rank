@@ -19,7 +19,7 @@ public class DiagonalDifference {
 
     }
 
-    
+
     for(int i = 0; i < diag1.size(); i++) {
 
       sum1 = diag1.get(i) + sum1;
