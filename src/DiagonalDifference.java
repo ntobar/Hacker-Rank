@@ -8,6 +8,7 @@ public class DiagonalDifference {
 
   /**
    * Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+   *
    * @param arr - The Square Matrix - a 2D array of Integers
    * @return int - representing the absolute difference between the sum of its diagonals
    */
@@ -19,7 +20,7 @@ public class DiagonalDifference {
     int sum2 = 0;
 
 
-    for(int r = 0; r < arr.length; r++) {
+    for (int r = 0; r < arr.length; r++) {
 
       diag1.add(arr[r][r]);
       diag2.add(arr[r][(arr.length - 1) - r]);
@@ -30,19 +31,18 @@ public class DiagonalDifference {
 
     }
 
-   return Math.abs(sum1 - sum2);
+    return Math.abs(sum1 - sum2);
 
 
   }
 
 
-  public static void main(String[] args)  {
+  public static void main(String[] args) {
 
     DiagonalDifference d = new DiagonalDifference();
-    int b = d.diagonalDifference(new int[][]{{1, 2, 3}, {1,2,3}, {1,2,3}});
+    int b = d.diagonalDifference(new int[][]{{1, 2, 3}, {1, 2, 3}, {1, 2, 3}});
 
     System.out.println(b);
-
 
 
   }

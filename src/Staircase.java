@@ -5,7 +5,7 @@ public class Staircase {
 
     int max = 0;
 
-    if(height.length > 1) {
+    if (height.length > 1) {
 
       for (int i = 0; i < height.length - 1; i++) {
 
@@ -28,9 +28,7 @@ public class Staircase {
         return Math.abs(k - max);
       }
 
-    }
-
-    else {
+    } else {
       if (k >= height[0]) {
         return 0;
       } else {
@@ -39,14 +37,12 @@ public class Staircase {
     }
 
 
-
-
   }
 
   public static void main(String[] args) {
 
     Staircase a = new Staircase();
-    int[] cd = new int[]{0,2,3,0};
+    int[] cd = new int[]{0, 2, 3, 0};
     int b = a.hurdleRace(1, cd);
     System.out.println(b);
 

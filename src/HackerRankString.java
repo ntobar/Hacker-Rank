@@ -5,7 +5,6 @@ import java.util.HashMap;
 public class HackerRankString {
 
 
-
   // Complete the hackerrankInString function below.
   public String hackerrankInString(String s) {
 
@@ -14,10 +13,9 @@ public class HackerRankString {
 
     String hackerrank = "ackerrank";
 
-    if(s.charAt(0) != 'h') {
+    if (s.charAt(0) != 'h') {
       return result;
     } else {
-
 
 
       for (int i = 1; i < s.length(); i++) {
@@ -36,7 +34,7 @@ public class HackerRankString {
         }
 
         if ((i < s.length() - 1) && (s.charAt(i) == s.charAt(i + 1)) && (s.charAt(i) != 'r') && nR > 2
-        || s.charAt(i) != hackerrank.charAt(0)) {
+                || s.charAt(i) != hackerrank.charAt(0)) {
           s = s.substring(i + 1);
           //i++;
         } else if (s.charAt(i) == hackerrank.charAt(0)) {
@@ -51,15 +49,10 @@ public class HackerRankString {
     }
 
 
-
-
-
     return result;
 
 
   }
-
-
 
 
   public static void main(String[] args) {
@@ -71,8 +64,6 @@ public class HackerRankString {
     //System.out.println(aa.substring(1));
 
     System.out.println(n);
-
-
 
 
   }

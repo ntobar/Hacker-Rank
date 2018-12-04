@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd38fd3-1b57-451c-aeed-b492335dd614" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GradingStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BirthdayCakeCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BirthdayCakeCandles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRankString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRankString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Staircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Staircase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeConversion.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,24 +30,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="asd" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="asd" value="401" />
-          <entry key="java" value="6459" />
+          <entry key="java" value="7190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6459" />
+          <entry key="JAVA" value="7190" />
           <entry key="PLAIN_TEXT" value="401" />
         </counts>
       </usages-collector>
@@ -52,15 +58,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Staircase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
+            <state relative-caret-position="360">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GradingStudents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TimeConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="64" selection-start-line="64" selection-end-line="79" selection-end-column="3" />
+            <state relative-caret-position="690">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -68,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BirthdayCakeCandles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="50" selection-end-column="3" />
+            <state relative-caret-position="525">
+              <caret line="35" selection-start-line="35" selection-end-line="44" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -77,17 +94,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HackerRankString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DiagonalDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="33" selection-start-line="33" selection-start-column="2" selection-end-line="38" selection-end-column="7" />
+            <state relative-caret-position="340">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -113,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/Staircase.java" />
         <option value="$PROJECT_DIR$/src/HackerRankString.java" />
         <option value="$PROJECT_DIR$/src/DiagonalDifference.java" />
+        <option value="$PROJECT_DIR$/src/GradingStudents.java" />
       </list>
     </option>
   </component>
@@ -157,7 +175,7 @@
     <property name="SearchEverywhereHistoryKey" value="C&#9;PSI&#9;JAVA://com.sun.org.apache.xml.internal.security.c14n.helper.C14nHelper" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543937788834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543961801725" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -173,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiagonalDifference">
+  <component name="RunManager" selected="Application.GradingStudents">
     <configuration name="BirthdayCakeCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BirthdayCakeCandles" />
       <module name="HackerRank" />
@@ -188,15 +206,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerRankString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRankString" />
+    <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradingStudents" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Staircase" />
+    <configuration name="HackerRankString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankString" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -210,19 +228,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Staircase" />
       <item itemvalue="Application.TimeConversion" />
       <item itemvalue="Application.BirthdayCakeCandles" />
       <item itemvalue="Application.HackerRankString" />
       <item itemvalue="Application.DiagonalDifference" />
+      <item itemvalue="Application.GradingStudents" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradingStudents" />
         <item itemvalue="Application.DiagonalDifference" />
         <item itemvalue="Application.HackerRankString" />
         <item itemvalue="Application.BirthdayCakeCandles" />
         <item itemvalue="Application.TimeConversion" />
-        <item itemvalue="Application.Staircase" />
       </list>
     </recent_temporary>
   </component>
@@ -237,18 +255,18 @@
       <option name="presentableId" value="Default" />
       <updated>1543605045583</updated>
       <workItem from="1543605050005" duration="10172000" />
-      <workItem from="1543795697807" duration="19662000" />
+      <workItem from="1543795697807" duration="23907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29834000" />
+    <option name="totallyTimeSpent" value="34079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -258,7 +276,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20963855" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20963855" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2180723" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,7 +308,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Staircase.java</url>
-          <line>49</line>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -305,13 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TimeConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="64" selection-start-line="64" selection-end-line="79" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/com/sun/org/apache/xml/internal/security/c14n/helper/C14nHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -319,29 +330,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Staircase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerRankString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BirthdayCakeCandles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="50" selection-end-column="3" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Staircase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="33" selection-start-line="33" selection-start-column="2" selection-end-line="38" selection-end-column="7" />
+        <state relative-caret-position="340">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GradingStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
