@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd38fd3-1b57-451c-aeed-b492335dd614" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GradingStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BirthdayCakeCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BirthdayCakeCandles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiagonalDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRankString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRankString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Staircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Staircase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Staircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HurdleRace.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,12 +36,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="asd" value="401" />
-          <entry key="java" value="7190" />
+          <entry key="java" value="7426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7190" />
+          <entry key="JAVA" value="7426" />
           <entry key="PLAIN_TEXT" value="401" />
         </counts>
       </usages-collector>
@@ -55,20 +49,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Staircase.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HurdleRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="720">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GradingStudents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="825">
+              <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -131,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/HackerRankString.java" />
         <option value="$PROJECT_DIR$/src/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/GradingStudents.java" />
+        <option value="$PROJECT_DIR$/src/HurdleRace.java" />
       </list>
     </option>
   </component>
@@ -175,7 +170,7 @@
     <property name="SearchEverywhereHistoryKey" value="C&#9;PSI&#9;JAVA://com.sun.org.apache.xml.internal.security.c14n.helper.C14nHelper" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543961801725" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543962007717" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -255,18 +250,18 @@
       <option name="presentableId" value="Default" />
       <updated>1543605045583</updated>
       <workItem from="1543605050005" duration="10172000" />
-      <workItem from="1543795697807" duration="23907000" />
+      <workItem from="1543795697807" duration="24567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34079000" />
+    <option name="totallyTimeSpent" value="34739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -276,7 +271,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20963855" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20963855" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2180723" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -302,18 +297,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Staircase.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/asd">
@@ -344,13 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Staircase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -367,8 +343,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GradingStudents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="825">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HurdleRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>

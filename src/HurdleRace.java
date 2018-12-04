@@ -1,5 +1,5 @@
 
-public class Staircase {
+public class HurdleRace {
 
   public int hurdleRace(int k, int[] height) {
 
@@ -41,7 +41,7 @@ public class Staircase {
 
   public static void main(String[] args) {
 
-    Staircase a = new Staircase();
+    HurdleRace a = new HurdleRace();
     int[] cd = new int[]{0, 2, 3, 0};
     int b = a.hurdleRace(1, cd);
     System.out.println(b);
