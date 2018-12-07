@@ -23,7 +23,7 @@ public class BonApetit {
     int annesCharge = 0;
 
 
-    for(int i = 0; i < c.length; i++) {
+    for(int i = 0; i < n; i++) {
 
       if(i != k) {
         annesCharge = annesCharge + c[i];
@@ -35,7 +35,7 @@ public class BonApetit {
 
     if(annesCharge != b) {
 
-      result = Integer.toString(annesCharge - (b - annesCharge));
+      result = Integer.toString(b - annesCharge);
 
     }
 
@@ -49,8 +49,11 @@ public class BonApetit {
 
     BonApetit bon = new BonApetit();
     int[] costs = new int[]{3, 10, 2, 9};
+    int[] costs1 = new int[]{10,2,1,1};
 
     System.out.println(bon.bonApetit(4,1,costs,7));
+
+    System.out.println(bon.bonApetit(4, 0, costs1, 14));
 
 
 
