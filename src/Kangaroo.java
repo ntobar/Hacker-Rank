@@ -1,10 +1,14 @@
 import java.util.ArrayList;
 
+/**
+ * This class represents the Kangaroo challenge from Hacker Rank
+ */
 public class Kangaroo {
 
 
   /**
-   *
+   * "Given the value of for apples and oranges,
+   * can you determine how many apples and oranges will fall on Sam's house?" - Hacker Rank
    * @param s - house start point
    * @param t - house end point
    * @param a - where apple tree is
@@ -15,10 +19,8 @@ public class Kangaroo {
    * @param an - distance each orange fell from its tree
    * @return
    */
-  public int[] kangaroo(int s, int t, int a, int b, int m, int[] ad, int n, int[] an) {
+  public String kangaroo(int s, int t, int a, int b, int m, int[] ad, int n, int[] an) {
 
-    int distAppleToHouse = s - a;
-    int distHouseToOrange = b - t;
 
     ArrayList<Integer> apples = new ArrayList<>();
     ArrayList<Integer> oranges = new ArrayList<>();
@@ -29,7 +31,8 @@ public class Kangaroo {
       if(ad[i] >= 0) {
 
 
-        if((ad[i] >= s) && (ad[i] <= t)) {
+
+        if((a + ad[i] >= s) && (a + ad[i] <= t)) {
           apples.add(ad[i]);
         }
       }
@@ -38,9 +41,7 @@ public class Kangaroo {
     for(int f = 0; f < n; f++) {
       if(an[f] < 0) {
 
-        if(b + ad[f] <= t) && (b + ad[f] >= s) {
-
-        if((an[f] <= t) && (an[f] >= s)) {
+        if((b + an[f] <= t) && (b + an[f] >= s)) {
           oranges.add(an[f]);
         }
       }
@@ -49,7 +50,9 @@ public class Kangaroo {
 
     }
 
-    return new int[]{apples.size(), oranges.size()};
+
+    return new String(apples.size() + "\n" + oranges.size());
+
 
   }
 
@@ -59,7 +62,7 @@ public class Kangaroo {
 
     Kangaroo k = new Kangaroo();
 
-    int[] a = k.kangaroo(7,11, 5,15, 3, new int[]{-2, 2, 1}, 2, new int[]{5, -6});
+    String a = k.kangaroo(7,11, 5,15, 3, new int[]{-2, 2, 1}, 2, new int[]{5, -6});
 
     System.out.println(a);
 
