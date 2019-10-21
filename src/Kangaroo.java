@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * This class represents the Kangaroo challenge from Hacker Rank
+ * This class represents the Kangaroo challenge from Hacker Rank.
  */
 public class Kangaroo {
 
@@ -37,6 +37,7 @@ public class Kangaroo {
         }
       }
     }
+
 
     for(int f = 0; f < n; f++) {
       if(an[f] < 0) {
